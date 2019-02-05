@@ -1,0 +1,11 @@
+name = "CbsOData"
+uuid = "b9eaa7e0-2879-11e9-2bcd-fb981a7e3568"
+authors = ["Edwin de Jonge <edwindjonge@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
