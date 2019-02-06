@@ -1,5 +1,7 @@
 module CbsOData
 
-greet() = print("Hello World!")
+import HTTP
 
+greet() = print("Hello World!")
+ 
 end # module
